@@ -9,7 +9,7 @@ This repository contains a comprehensive database of connections for cross-lamin
 - **Performance Assessment**  
   Qualitative and quantitative metrics evaluating the mechanical performance of connections under in-plane tensile and shear loading cases.
 
-- **Wide Scope**  
+- **Timber Connections**  
   Includes commercially available timber joinery products as well as novel connection types developed through research and development efforts.
 
 - **Expandable Framework**  
