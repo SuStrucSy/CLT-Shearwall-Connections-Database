@@ -14,3 +14,8 @@ This repository contains a comprehensive database of connections for cross-lamin
 
 - **Expandable Framework**  
   Designed to be adaptable and expandable, enabling further exploration of structural behavior and analytics-driven, performance-based design methodologies.
+  
+## 📂 Download the Database
+The Access database used in this project is available in the [latest release](https://github.com/SuStrucSy/CLT-Shearwall-Connections-Database/releases).
+
+👉 **[Download the database file here](https://github.com/SuStrucSy/CLT-Shearwall-Connections-Database/releases/tag/CLT-SHWC-DB-V1.0)**
