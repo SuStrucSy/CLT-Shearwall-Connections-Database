@@ -1,7 +1,9 @@
 # CLT Shearwall Connections Database
 
 A comprehensive database of cross-laminated timber (CLT) shearwall connections presenting qualitative and quantitative mechanical performance collected from experimental campaigns. This database is designed to support research, design, and performance-based evaluation in mass timber construction.
-**Latest update:** 27 Aug 2025
+
+<br>
+<sub>Latest update: 27 Aug 2025</sub>
 ---
 
 ## Overview
