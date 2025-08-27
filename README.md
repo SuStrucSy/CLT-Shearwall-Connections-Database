@@ -1,24 +1,72 @@
-# CLT-Shearwall-Connections-Database
-This repository contains a comprehensive database of connections for cross-laminated timber (CLT) shearwall systems presenting qualitative and quantitative mechanical performance collected from experimental campaigns. This database is designed to support the growing adoption of mass timber construction. The database serves as a dynamic resource for designers and researchers, providing detailed insights into the mechanical performance of a wide variety of joinery types that can serve as a basis for connection and component level experiment development, numerical simulations, performance-based-design of multi-panel CLT shearwalls and so forth. 
+# CLT Shearwall Connections Database
 
-Latest update: 21 Aug 2025
+A comprehensive database of cross-laminated timber (CLT) shearwall connections presenting qualitative and quantitative mechanical performance collected from experimental campaigns. This database is designed to support research, design, and performance-based evaluation in mass timber construction.
 
-### Version 1.0 : 
-#### Key features:
-- **Extensive Data Collection**  
-  Aggregated and post-processed data from 505 group sets of connections, encompassing 1,979 associated test data points from mass timber construction practices and research worldwide.
+---
 
-- **Performance Assessment**  
-  Qualitative and quantitative metrics evaluating the mechanical performance of connections under in-plane tensile and shear loading cases.
+## Overview
 
-- **Timber Connections**  
-  Includes commercially available timber joinery products as well as novel connection types developed through research and development efforts.
+The database compiles data from **522 connection sets** (2048 associated test specimens) spanning conventional (commercial) and R&D (experimental/innovative) joinery types used worldwide. It enables systematic assessment of connection performance under **in-plane tensile and shear loading**, supporting:
 
-- **Expandable Framework**  
-  Designed to be adaptable and expandable, enabling further exploration of structural behavior and analytics-driven, performance-based design methodologies.
+- Experimental development of new connection types  
+- Numerical simulations and parametric studies  
+- Performance-based design of multi-panel CLT shearwalls  
 
-# The overall structure of the database  
-  ![Alt text for accessibility](Images/DB_structure.png)
+The database is **expandable and adaptable**, providing a framework for analytics-driven design and future research.
+
+---
+
+## Database Structure
+
+The database consists of three main sections:
+
+- **Metadata** – Identification and specimen information, including assembly type, joinery type, fastener type, loading direction, and source.  
+- **Structural Data** – Geometric details, material properties, and connection configuration.  
+- **Experimental Data** – Quantitative and qualitative performance metrics, including load-deformation curves, failure modes, and associated input files.  
+
+Connections are categorized into **Dowel-free** and **Dowel** types, and assemblies are classified as **Wall-Floor (WF)** or **Wall-Wall (WW)**. Determinative records enable systematic comparisons, while descriptive records provide supporting experimental and graphical information.
+
+---
+
+## Key Features
+
+- **Extensive Data Collection:** Aggregated data from experimental studies worldwide.  
+- **Performance Assessment:** Qualitative and quantitative metrics for tensile and shear loading.  
+- **Timber Connections:** Includes commercial joinery and innovative R&D connections.  
+- **Expandable Framework:** Users can expand the database horizontally (more records) and vertically (additional parameters).
+
+---
+
+## Example Use
+
+- Comparative analysis of connection performance  
+- Numerical modeling and simulations  
+- Design scenario exploration for multi-panel CLT shearwalls  
+
+*(Detailed usage instructions and examples will be added in future updates.)*
+
+---
+
+## Disclaimer
+
+The data aggregated in this database has been collected manually from the references cited. Use of the data is **at the discretion of the user**, and caution is advised. For design and implementation purposes, users should always refer to **manufacturer specifications** or **case-specific experimental test results**.
+
+The database is provided **“as is”**. The authors and contributors assume **no responsibility or liability** for any errors, omissions, or misuse of the data, nor for any outcomes arising directly or indirectly from its application.
+
+---
+
+## License
+
+**Copyright © 2025 Amirhossein Heidari. All rights reserved.**  
+This project is licensed under the **MIT License** – see the LICENSE file for details.
+
+
+---
+
+## The Overall Structure of the Database
+
+![Database Structure](Images/DB_structure.png)
+
 
 
   
