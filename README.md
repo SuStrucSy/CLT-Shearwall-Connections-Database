@@ -54,7 +54,7 @@ The database is provided **“as is”**. The authors and contributors assume **
 
 ## License
 
-**Copyright © 2025 Amirhossein Heidari. All rights reserved.**  
+**Copyright © 2025 SusTrucSy. All rights reserved.**  
 This project is licensed under the **MIT License** – see the LICENSE file for details.
 
 
