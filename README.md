@@ -16,6 +16,9 @@ Latest update: 21 Aug 2025
 
 - **Expandable Framework**  
   Designed to be adaptable and expandable, enabling further exploration of structural behavior and analytics-driven, performance-based design methodologies.
+
+
+  ![Alt text for accessibility](Images/DB_structure.png)
   
 ## 📂 Download the Database
 The Access database used in this project is available in the [latest release]
