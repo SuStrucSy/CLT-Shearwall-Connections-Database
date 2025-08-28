@@ -46,15 +46,13 @@ Connections are categorized into **Dowel-free** and **Dowel** types, and assembl
 
 ## Disclaimer
 
-The data aggregated in this database has been collected manually from the references cited. Use of the data is **at the discretion of the user**, and caution is advised. For design and implementation purposes, users should always refer to **manufacturer specifications** or **case-specific experimental test results**.
-
-The developers and contributors assume **no responsibility or liability** for any errors, omissions, or misuse of the data, nor for any outcomes arising directly or indirectly from its application.
+This database contains curated data from cited references for research and educational purposes. While care has been taken in compiling and organizing the dataset, occasional errors or omissions may occur. The database is intended as a preliminary engineering resource and does not replace project-specific design, applicable codes, manufacturer documentation, or professional judgment. Use of the database is at your own discretion. It is provided **“as is”** without warranties, and the authors, contributors, and affiliated institutions are not liable for any outcomes arising from its use. Users are encouraged to consult original sources for verification and full context.
 
 ---
 
 ## License
 
-**Copyright © 2025 SusTrucSy. All rights reserved.**  
+**Copyright © 2025 SuStrucSy, University of Toronto. All rights reserved.**  
 This project is licensed under the **MIT License** – see the LICENSE file for details.
 
 
