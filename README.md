@@ -46,7 +46,7 @@ Connections are categorized into **Dowel-free** and **Dowel** types, and assembl
 
 ## Disclaimer
 
-This database contains curated data from cited references for research and educational purposes. While care has been taken in compiling and organizing the dataset, occasional errors or omissions may occur. The database is intended as a preliminary engineering resource and does not replace project-specific design, applicable codes, manufacturer documentation, or professional judgment. Use of the database is at your own discretion. It is provided **“as is”** without warranties, and the authors, contributors, and affiliated institutions are not liable for any outcomes arising from its use. Users are encouraged to consult original sources for verification and full context.
+This database contains curated data from cited references for research and educational purposes. It is intended as a preliminary engineering resource and does not replace project-specific design, codes, or manufacturer documentation. Use is at your own discretion, provided **“as is”**, and the authors are not liable for any outcomes. Users should verify information with original sources.
 
 ---
 
