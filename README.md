@@ -1,3 +1,15 @@
+
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+**Please cite this database as:
+
+A. Heidari, E. Dang, A. Rezaei Rad, 2025, Design Database Development and Comparative Performance Assessment of Connections in Cross-Laminated Timber Construction, Journal of Building Engineering, https://doi.org/10.1016/j.jobe.2025.114278
+
+https://doi.org/10.1016/j.jobe.2025.114278**
+
+
+
+
 # CLT Shearwall Connections Database
 ### A comprehensive database of cross-laminated timber (CLT) shearwall connections presenting qualitative and quantitative mechanical performance collected from experimental campaigns. This database is designed to support research, design, and performance-based evaluation in mass timber construction. 
 
